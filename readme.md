@@ -35,9 +35,3 @@ docker run --rm \                           # Run container, remove after done
   zap-baseline.py \                          # Run ZAP baseline scan
   -t http://host.docker.internal:5000 \     # Target: your Flask app
   -r zap-report.html                         # Output report filename
-
- ## Output
- 
-  
-
-This application is for educational purposes only. The vulnerabilities are intentional and should never be replicated in production applications. Always follow secure coding practices in real-world applications.
