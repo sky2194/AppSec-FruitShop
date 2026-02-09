@@ -104,6 +104,8 @@ docker run --rm \
   zap-baseline.py \
   -t http://host.docker.internal:5000 \
   -r zap-report.html
+
+[ZAP REPORT]([url](https://sky2194.github.io/AppSec-FruitShop/zap-report.html))
 ```
 
 ## Project Structure
